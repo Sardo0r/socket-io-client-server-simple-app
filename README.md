@@ -19,5 +19,6 @@ First of all install dependencies both at client and server folder with yarn
 ```
 
 Server runs on port 3001
+
 Client runs on port 3000
 
