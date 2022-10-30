@@ -1,6 +1,7 @@
 # socket.io simple application
 
 **Client:** React
+
 **Server:** Node, Express
 
 First of all install dependencies both at client and server folder with yarn
@@ -17,6 +18,6 @@ First of all install dependencies both at client and server folder with yarn
    yarn install
 ```
 
-Server: node.js // run on port 3001
-Client: react.js // run on port 3000
+Server runs on port 3001
+Client runs on port 3000
 
